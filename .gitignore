@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+facebook_profile/
+cleaner.db
+*.log
